@@ -2,4 +2,4 @@ Santa has to deliver lots of presents for all kids being good this year. There a
 
 Sometimes Github cannot render the notebook. In such a case, try:
 
-https://nbviewer.jupyter.org/github/marctorrellas/christmas_route/blob/master/christmas_routes.ipynb
+https://nbviewer.jupyter.org/github/marctorrellas/christmas_routes/blob/master/christmas_routes.ipynb
